@@ -4,15 +4,15 @@
 """
 
 # รายชื่อมอนสเตอร์สร้างมา 5 ตัวอย่างเป็น str
-monsters = []
+monsters = ["Magic","Tiger","God","King","Queen"]
 
 # รายการสมบัติสร้างมา 5 ชิ้นอย่างเป็น str
-treasures = []
+treasures = ["Attack","Speed","Defend","Pass","Controll"]
 
 # แสดงรายชื่อมอนสเตอร์
-for ...
-    print()
+for i in monsters:
+    print(i)
 
 # แสดงรายการสมบัติ
-for ...
-    print()
+for i in treasures:
+    print(i)
